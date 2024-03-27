@@ -43,7 +43,7 @@
 
 <br/><br/>
 
-[![Dawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DawnBlossomsPluckatDusk&show_icons=true)](https://github.com/DawnBlossomsPluckatDusk)
+[![Dawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DawnBlossomsPluckatDusk&show_icons=false)](https://github.com/DawnBlossomsPluckatDusk)
 
 <br/>
 
